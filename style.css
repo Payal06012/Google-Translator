@@ -82,8 +82,9 @@ textarea:focus {
 /* Dropdowns */
 select {
   flex-grow: 1;
-background: linear-gradient(135deg, #3a4381);
-  color: #fff;
+    background: #3b4d69;
+/* background: linear-gradient(135deg, #3a4381); */
+  color: #ffffff;
   padding: 8px 12px;
   border-radius: 8px;
   border: none;
@@ -92,9 +93,7 @@ background: linear-gradient(135deg, #3a4381);
   outline: none;
 }
 
-select:hover {
-  background: #374151;
-}
+
 
 /* Icons */
 i {
